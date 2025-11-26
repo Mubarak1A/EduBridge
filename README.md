@@ -1,4 +1,6 @@
-# Lama Dev School Management Dashboard
+# EduBridge School Management App
+
+A B2B2C school management application connecting schools, teachers, and students for streamlined administration and communication.
 
 ## Getting Started
 
@@ -15,12 +17,3 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Lama Dev Youtube Channel](https://youtube.com/lamadev) 
-- [Next.js](https://nextjs.org/learn)

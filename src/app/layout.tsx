@@ -5,8 +5,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Lama Dev School Management Dashboard",
-  description: "Next.js School Management System",
+  title: "EduBridge School Management App",
+  description: "A B2B2C school management application connecting schools, teachers, and students for streamlined administration and communication.",
 };
 
 export default function RootLayout({
